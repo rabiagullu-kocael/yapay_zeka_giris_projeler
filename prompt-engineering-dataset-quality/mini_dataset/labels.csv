@@ -1,0 +1,13 @@
+image,class,color,mask
+img_01.png,hoodie,black,img_01_mask.png
+img_02.png,hoodie,black,img_02_mask.png
+img_03.png,hoodie,black,img_03_mask.png
+img_04.png,hoodie,black,img_04_mask.png
+img_05.png,coat,black,img_05_mask.png
+img_06.png,hoodie,black,img_06_mask.png
+img_07.png,hoodie,black,img_07_mask.png
+img_08.png,HoOdIe,black,img_08_mask.png
+img_09.png,,black,img_09_mask.png
+img_10.png,hoodie,black,img_10_mask.png
+img_11.png,hoodie,black,img_11_mask.png
+img_12.png,hoodie,black,img_12_mask.png
